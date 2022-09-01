@@ -1,1 +1,1 @@
-This is a script that sets the permissions for the user and the group to no permissions at all and grants all permissions to the other users
+This is a script that sets the permissions for the owner and the group to no permisions at all and grants all the permissions to the other users
