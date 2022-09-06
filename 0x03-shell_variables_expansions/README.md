@@ -1,1 +1,1 @@
-This is a script that prints all possible combinations of two letters, except oo
+This is a script that prints a number with two decimal places, followed by a new line
