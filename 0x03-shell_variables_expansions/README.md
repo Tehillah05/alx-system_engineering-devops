@@ -1,1 +1,1 @@
-This is a script that prints a number with two decimal places, followed by a new line
+This is a script that finds all empty files and directories in the current directory and all sub-directories
